@@ -1,6 +1,6 @@
 {
   "name": "elipser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Elipser is a simple (zero dependencies) and naive shortener designed with Polish language in mind | Compatibile with Angular pipes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
