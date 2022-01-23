@@ -1,0 +1,22 @@
+{
+  "name": "elipser",
+  "version": "1.0.0",
+  "description": "Elipser is a simple (zero dependencies) and naive shortener designed with Polish language in mind | Compatibile with Angular pipes",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "mocha -r ts-node/register test/*.test.ts"
+  },
+  "author": "Eliwuu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.0",
+    "@types/mocha": "^9.1.0",
+    "chai": "^4.3.4",
+    "mocha": "^9.1.4",
+    "ts-node": "^10.4.0"
+  }
+}
