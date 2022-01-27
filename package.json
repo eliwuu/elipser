@@ -8,7 +8,8 @@
     "/dist"
   ],
   "scripts": {
-    "test": "mocha -r ts-node/register test/*.test.ts"
+    "test": "mocha -r ts-node/register test/*.test.ts",
+    "test-tokenizer": "mocha -r ts-node/esm test/tokenizer.test.ts"
   },
   "author": "Eliwuu",
   "license": "ISC",
